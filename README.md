@@ -1,2 +1,7 @@
-masterProject
-=============
+autofocus
+=========
+
+authors
+
+* julian
+* jonas
