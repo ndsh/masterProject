@@ -1,0 +1,7 @@
+Brachio	KEYWORD1
+
+toggle KEYWORD2
+moveServo KEYWORD2
+setStepperSpeed KEYWORD2
+moveStepper KEYWORD2
+change KEYWORD2
